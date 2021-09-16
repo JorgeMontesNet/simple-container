@@ -1,0 +1,9 @@
+{
+    "name": "simple-container",
+    "version": "1.0.0",
+    "description": "Web server showing a simple website",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-static": "^1.2.6"
+    }
+}
